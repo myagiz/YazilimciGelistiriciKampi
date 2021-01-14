@@ -16,7 +16,7 @@
       },
       "ECommerceEntities/1.0.0": {
         "runtime": {
-          "Example1.dll": {}
+          "ECommerceEntities.dll": {}
         }
       }
     }

@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Example1\ECommerceEntities.csproj" />
+    <ProjectReference Include="..\ECommerceEntities\ECommerceEntities.csproj" />
   </ItemGroup>
 
 </Project>

@@ -16,8 +16,8 @@
   "libraries": {
     "ECommerceEntities/1.0.0": {
       "type": "project",
-      "path": "../Example1/ECommerceEntities.csproj",
-      "msbuildProject": "../Example1/ECommerceEntities.csproj"
+      "path": "../ECommerceEntities/ECommerceEntities.csproj",
+      "msbuildProject": "../ECommerceEntities/ECommerceEntities.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -52,8 +52,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\user\\source\\repos\\YazilimciGelistiriciKampi\\YazilimciGelistiriciKampi\\Example1\\ECommerceEntities.csproj": {
-              "projectPath": "C:\\Users\\user\\source\\repos\\YazilimciGelistiriciKampi\\YazilimciGelistiriciKampi\\Example1\\ECommerceEntities.csproj"
+            "C:\\Users\\user\\source\\repos\\YazilimciGelistiriciKampi\\YazilimciGelistiriciKampi\\ECommerceEntities\\ECommerceEntities.csproj": {
+              "projectPath": "C:\\Users\\user\\source\\repos\\YazilimciGelistiriciKampi\\YazilimciGelistiriciKampi\\ECommerceEntities\\ECommerceEntities.csproj"
             }
           }
         }

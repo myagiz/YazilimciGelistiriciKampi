@@ -28,8 +28,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\user\\source\\repos\\YazilimciGelistiriciKampi\\YazilimciGelistiriciKampi\\Example1\\ECommerceEntities.csproj": {
-                "projectPath": "C:\\Users\\user\\source\\repos\\YazilimciGelistiriciKampi\\YazilimciGelistiriciKampi\\Example1\\ECommerceEntities.csproj"
+              "C:\\Users\\user\\source\\repos\\YazilimciGelistiriciKampi\\YazilimciGelistiriciKampi\\ECommerceEntities\\ECommerceEntities.csproj": {
+                "projectPath": "C:\\Users\\user\\source\\repos\\YazilimciGelistiriciKampi\\YazilimciGelistiriciKampi\\ECommerceEntities\\ECommerceEntities.csproj"
               }
             }
           }
@@ -62,11 +62,11 @@
         }
       }
     },
-    "C:\\Users\\user\\source\\repos\\YazilimciGelistiriciKampi\\YazilimciGelistiriciKampi\\Example1\\ECommerceEntities.csproj": {
+    "C:\\Users\\user\\source\\repos\\YazilimciGelistiriciKampi\\YazilimciGelistiriciKampi\\ECommerceEntities\\ECommerceEntities.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\YazilimciGelistiriciKampi\\YazilimciGelistiriciKampi\\Example1\\ECommerceEntities.csproj",
+        "projectUniqueName": "C:\\Users\\user\\source\\repos\\YazilimciGelistiriciKampi\\YazilimciGelistiriciKampi\\ECommerceEntities\\ECommerceEntities.csproj",
         "projectName": "ECommerceEntities",
-        "projectPath": "C:\\Users\\user\\source\\repos\\YazilimciGelistiriciKampi\\YazilimciGelistiriciKampi\\Example1\\ECommerceEntities.csproj"
+        "projectPath": "C:\\Users\\user\\source\\repos\\YazilimciGelistiriciKampi\\YazilimciGelistiriciKampi\\ECommerceEntities\\ECommerceEntities.csproj"
       },
       "frameworks": {
         "net472": {}
