@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\YazilimciGelistiriciKampi\YazilimciGelistiriciKampi\ECommerceConsoleUI\bin\Debug\netcoreapp3.1\ECommerceConsoleUI.exe
+C:\Users\user\source\repos\YazilimciGelistiriciKampi\YazilimciGelistiriciKampi\ECommerceConsoleUI\bin\Debug\netcoreapp3.1\ECommerceConsoleUI.deps.json
+C:\Users\user\source\repos\YazilimciGelistiriciKampi\YazilimciGelistiriciKampi\ECommerceConsoleUI\bin\Debug\netcoreapp3.1\ECommerceConsoleUI.runtimeconfig.json
+C:\Users\user\source\repos\YazilimciGelistiriciKampi\YazilimciGelistiriciKampi\ECommerceConsoleUI\bin\Debug\netcoreapp3.1\ECommerceConsoleUI.runtimeconfig.dev.json
+C:\Users\user\source\repos\YazilimciGelistiriciKampi\YazilimciGelistiriciKampi\ECommerceConsoleUI\bin\Debug\netcoreapp3.1\ECommerceConsoleUI.dll
+C:\Users\user\source\repos\YazilimciGelistiriciKampi\YazilimciGelistiriciKampi\ECommerceConsoleUI\bin\Debug\netcoreapp3.1\ECommerceConsoleUI.pdb
+C:\Users\user\source\repos\YazilimciGelistiriciKampi\YazilimciGelistiriciKampi\ECommerceConsoleUI\bin\Debug\netcoreapp3.1\Example1.dll
+C:\Users\user\source\repos\YazilimciGelistiriciKampi\YazilimciGelistiriciKampi\ECommerceConsoleUI\bin\Debug\netcoreapp3.1\Example1.pdb
+C:\Users\user\source\repos\YazilimciGelistiriciKampi\YazilimciGelistiriciKampi\ECommerceConsoleUI\obj\Debug\netcoreapp3.1\ECommerceConsoleUI.csprojAssemblyReference.cache
+C:\Users\user\source\repos\YazilimciGelistiriciKampi\YazilimciGelistiriciKampi\ECommerceConsoleUI\obj\Debug\netcoreapp3.1\ECommerceConsoleUI.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\YazilimciGelistiriciKampi\YazilimciGelistiriciKampi\ECommerceConsoleUI\obj\Debug\netcoreapp3.1\ECommerceConsoleUI.AssemblyInfo.cs
+C:\Users\user\source\repos\YazilimciGelistiriciKampi\YazilimciGelistiriciKampi\ECommerceConsoleUI\obj\Debug\netcoreapp3.1\ECommerceConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\YazilimciGelistiriciKampi\YazilimciGelistiriciKampi\ECommerceConsoleUI\obj\Debug\netcoreapp3.1\ECommerceConsoleUI.csproj.CopyComplete
+C:\Users\user\source\repos\YazilimciGelistiriciKampi\YazilimciGelistiriciKampi\ECommerceConsoleUI\obj\Debug\netcoreapp3.1\ECommerceConsoleUI.dll
+C:\Users\user\source\repos\YazilimciGelistiriciKampi\YazilimciGelistiriciKampi\ECommerceConsoleUI\obj\Debug\netcoreapp3.1\ECommerceConsoleUI.pdb
+C:\Users\user\source\repos\YazilimciGelistiriciKampi\YazilimciGelistiriciKampi\ECommerceConsoleUI\obj\Debug\netcoreapp3.1\ECommerceConsoleUI.genruntimeconfig.cache
