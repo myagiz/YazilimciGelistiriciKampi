@@ -8,10 +8,19 @@
     ".NETCoreApp,Version=v3.1": {
       "ECommerceConsoleUI/1.0.0": {
         "dependencies": {
+          "ECommerceBusiness": "1.0.0",
           "ECommerceEntities": "1.0.0"
         },
         "runtime": {
           "ECommerceConsoleUI.dll": {}
+        }
+      },
+      "ECommerceBusiness/1.0.0": {
+        "dependencies": {
+          "ECommerceEntities": "1.0.0"
+        },
+        "runtime": {
+          "ECommerceBusiness.dll": {}
         }
       },
       "ECommerceEntities/1.0.0": {
@@ -23,6 +32,11 @@
   },
   "libraries": {
     "ECommerceConsoleUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ECommerceBusiness/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

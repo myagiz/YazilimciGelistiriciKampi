@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D95BAC93-4A06-4C59-A2A5-3DE47688EB03}</ProjectGuid>
+    <ProjectGuid>{8B5CA098-2057-4307-91DB-B3DF2D521AF3}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ECommerceEntities</RootNamespace>
-    <AssemblyName>ECommerceEntities</AssemblyName>
+    <RootNamespace>ECommerceBusiness</RootNamespace>
+    <AssemblyName>ECommerceBusiness</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
@@ -41,10 +41,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Entity\Customer.cs" />
-    <Compile Include="Entity\Product.cs" />
+    <Compile Include="Abstract\ICustomerService.cs" />
+    <Compile Include="Concrete\Manager\CustomerManager.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\ECommerceEntities\ECommerceEntities.csproj">
+      <Project>{D95BAC93-4A06-4C59-A2A5-3DE47688EB03}</Project>
+      <Name>ECommerceEntities</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

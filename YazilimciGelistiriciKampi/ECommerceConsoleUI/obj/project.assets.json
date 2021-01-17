@@ -2,6 +2,18 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v3.1": {
+      "ECommerceBusiness/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "ECommerceEntities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ECommerceBusiness.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ECommerceBusiness.dll": {}
+        }
+      },
       "ECommerceEntities/1.0.0": {
         "type": "project",
         "compile": {
@@ -14,6 +26,11 @@
     }
   },
   "libraries": {
+    "ECommerceBusiness/1.0.0": {
+      "type": "project",
+      "path": "../ECommerceBusiness/ECommerceBusiness.csproj",
+      "msbuildProject": "../ECommerceBusiness/ECommerceBusiness.csproj"
+    },
     "ECommerceEntities/1.0.0": {
       "type": "project",
       "path": "../ECommerceEntities/ECommerceEntities.csproj",
@@ -22,6 +39,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "ECommerceBusiness >= 1.0.0",
       "ECommerceEntities >= 1.0.0"
     ]
   },
@@ -52,6 +70,9 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
+            "C:\\Users\\user\\source\\repos\\YazilimciGelistiriciKampi\\YazilimciGelistiriciKampi\\ECommerceBusiness\\ECommerceBusiness.csproj": {
+              "projectPath": "C:\\Users\\user\\source\\repos\\YazilimciGelistiriciKampi\\YazilimciGelistiriciKampi\\ECommerceBusiness\\ECommerceBusiness.csproj"
+            },
             "C:\\Users\\user\\source\\repos\\YazilimciGelistiriciKampi\\YazilimciGelistiriciKampi\\ECommerceEntities\\ECommerceEntities.csproj": {
               "projectPath": "C:\\Users\\user\\source\\repos\\YazilimciGelistiriciKampi\\YazilimciGelistiriciKampi\\ECommerceEntities\\ECommerceEntities.csproj"
             }

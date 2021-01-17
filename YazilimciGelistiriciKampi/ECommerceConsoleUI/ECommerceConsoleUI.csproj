@@ -6,6 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\ECommerceBusiness\ECommerceBusiness.csproj" />
     <ProjectReference Include="..\ECommerceEntities\ECommerceEntities.csproj" />
   </ItemGroup>
 

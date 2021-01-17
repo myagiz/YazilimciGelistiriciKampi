@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\YazilimciGelistiriciKampi\YazilimciGelistiriciKampi\ECommerceBusiness\bin\Debug\ECommerceBusiness.dll
+C:\Users\user\source\repos\YazilimciGelistiriciKampi\YazilimciGelistiriciKampi\ECommerceBusiness\bin\Debug\ECommerceBusiness.pdb
+C:\Users\user\source\repos\YazilimciGelistiriciKampi\YazilimciGelistiriciKampi\ECommerceBusiness\bin\Debug\ECommerceEntities.dll
+C:\Users\user\source\repos\YazilimciGelistiriciKampi\YazilimciGelistiriciKampi\ECommerceBusiness\bin\Debug\ECommerceEntities.pdb
+C:\Users\user\source\repos\YazilimciGelistiriciKampi\YazilimciGelistiriciKampi\ECommerceBusiness\obj\Debug\ECommerceBusiness.csprojAssemblyReference.cache
+C:\Users\user\source\repos\YazilimciGelistiriciKampi\YazilimciGelistiriciKampi\ECommerceBusiness\obj\Debug\ECommerceBusiness.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\YazilimciGelistiriciKampi\YazilimciGelistiriciKampi\ECommerceBusiness\obj\Debug\ECommerceBusiness.csproj.CopyComplete
+C:\Users\user\source\repos\YazilimciGelistiriciKampi\YazilimciGelistiriciKampi\ECommerceBusiness\obj\Debug\ECommerceBusiness.dll
+C:\Users\user\source\repos\YazilimciGelistiriciKampi\YazilimciGelistiriciKampi\ECommerceBusiness\obj\Debug\ECommerceBusiness.pdb

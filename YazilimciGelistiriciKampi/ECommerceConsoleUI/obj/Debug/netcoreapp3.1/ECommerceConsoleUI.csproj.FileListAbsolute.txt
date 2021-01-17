@@ -14,3 +14,5 @@ C:\Users\user\source\repos\YazilimciGelistiriciKampi\YazilimciGelistiriciKampi\E
 C:\Users\user\source\repos\YazilimciGelistiriciKampi\YazilimciGelistiriciKampi\ECommerceConsoleUI\obj\Debug\netcoreapp3.1\ECommerceConsoleUI.genruntimeconfig.cache
 C:\Users\user\source\repos\YazilimciGelistiriciKampi\YazilimciGelistiriciKampi\ECommerceConsoleUI\bin\Debug\netcoreapp3.1\ECommerceEntities.dll
 C:\Users\user\source\repos\YazilimciGelistiriciKampi\YazilimciGelistiriciKampi\ECommerceConsoleUI\bin\Debug\netcoreapp3.1\ECommerceEntities.pdb
+C:\Users\user\source\repos\YazilimciGelistiriciKampi\YazilimciGelistiriciKampi\ECommerceConsoleUI\bin\Debug\netcoreapp3.1\ECommerceBusiness.dll
+C:\Users\user\source\repos\YazilimciGelistiriciKampi\YazilimciGelistiriciKampi\ECommerceConsoleUI\bin\Debug\netcoreapp3.1\ECommerceBusiness.pdb

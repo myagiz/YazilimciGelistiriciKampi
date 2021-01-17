@@ -4,6 +4,25 @@
     "C:\\Users\\user\\source\\repos\\YazilimciGelistiriciKampi\\YazilimciGelistiriciKampi\\ECommerceConsoleUI\\ECommerceConsoleUI.csproj": {}
   },
   "projects": {
+    "C:\\Users\\user\\source\\repos\\YazilimciGelistiriciKampi\\YazilimciGelistiriciKampi\\ECommerceBusiness\\ECommerceBusiness.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\user\\source\\repos\\YazilimciGelistiriciKampi\\YazilimciGelistiriciKampi\\ECommerceBusiness\\ECommerceBusiness.csproj",
+        "projectName": "ECommerceBusiness",
+        "projectPath": "C:\\Users\\user\\source\\repos\\YazilimciGelistiriciKampi\\YazilimciGelistiriciKampi\\ECommerceBusiness\\ECommerceBusiness.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\user\\source\\repos\\YazilimciGelistiriciKampi\\YazilimciGelistiriciKampi\\ECommerceEntities\\ECommerceEntities.csproj": {
+                "projectPath": "C:\\Users\\user\\source\\repos\\YazilimciGelistiriciKampi\\YazilimciGelistiriciKampi\\ECommerceEntities\\ECommerceEntities.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
     "C:\\Users\\user\\source\\repos\\YazilimciGelistiriciKampi\\YazilimciGelistiriciKampi\\ECommerceConsoleUI\\ECommerceConsoleUI.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -28,6 +47,9 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
+              "C:\\Users\\user\\source\\repos\\YazilimciGelistiriciKampi\\YazilimciGelistiriciKampi\\ECommerceBusiness\\ECommerceBusiness.csproj": {
+                "projectPath": "C:\\Users\\user\\source\\repos\\YazilimciGelistiriciKampi\\YazilimciGelistiriciKampi\\ECommerceBusiness\\ECommerceBusiness.csproj"
+              },
               "C:\\Users\\user\\source\\repos\\YazilimciGelistiriciKampi\\YazilimciGelistiriciKampi\\ECommerceEntities\\ECommerceEntities.csproj": {
                 "projectPath": "C:\\Users\\user\\source\\repos\\YazilimciGelistiriciKampi\\YazilimciGelistiriciKampi\\ECommerceEntities\\ECommerceEntities.csproj"
               }
