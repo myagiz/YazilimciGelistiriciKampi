@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\YazilimciGelistiriciKampi\YazilimciGelistiriciKampi\ECommerceDataAccess\bin\Debug\ECommerceDataAccess.dll
+C:\Users\user\source\repos\YazilimciGelistiriciKampi\YazilimciGelistiriciKampi\ECommerceDataAccess\bin\Debug\ECommerceDataAccess.pdb
+C:\Users\user\source\repos\YazilimciGelistiriciKampi\YazilimciGelistiriciKampi\ECommerceDataAccess\obj\Debug\ECommerceDataAccess.csprojAssemblyReference.cache
+C:\Users\user\source\repos\YazilimciGelistiriciKampi\YazilimciGelistiriciKampi\ECommerceDataAccess\obj\Debug\ECommerceDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\YazilimciGelistiriciKampi\YazilimciGelistiriciKampi\ECommerceDataAccess\obj\Debug\ECommerceDataAccess.dll
+C:\Users\user\source\repos\YazilimciGelistiriciKampi\YazilimciGelistiriciKampi\ECommerceDataAccess\obj\Debug\ECommerceDataAccess.pdb
