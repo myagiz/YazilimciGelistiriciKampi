@@ -45,7 +45,9 @@
     <Compile Include="Concrete\CarManager.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <None Include="app.config" />
+  </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\DataAccess\DataAccess.csproj">
       <Project>{00260EE1-C687-4634-8C2E-CE6233BFE987}</Project>
