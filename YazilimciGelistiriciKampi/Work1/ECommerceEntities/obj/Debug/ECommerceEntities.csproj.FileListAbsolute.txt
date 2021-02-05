@@ -1,6 +1,0 @@
-C:\Users\user\source\repos\YazilimciGelistiriciKampi\YazilimciGelistiriciKampi\ECommerceEntities\bin\Debug\ECommerceEntities.dll
-C:\Users\user\source\repos\YazilimciGelistiriciKampi\YazilimciGelistiriciKampi\ECommerceEntities\bin\Debug\ECommerceEntities.pdb
-C:\Users\user\source\repos\YazilimciGelistiriciKampi\YazilimciGelistiriciKampi\ECommerceEntities\obj\Debug\ECommerceEntities.csprojAssemblyReference.cache
-C:\Users\user\source\repos\YazilimciGelistiriciKampi\YazilimciGelistiriciKampi\ECommerceEntities\obj\Debug\ECommerceEntities.csproj.CoreCompileInputs.cache
-C:\Users\user\source\repos\YazilimciGelistiriciKampi\YazilimciGelistiriciKampi\ECommerceEntities\obj\Debug\ECommerceEntities.dll
-C:\Users\user\source\repos\YazilimciGelistiriciKampi\YazilimciGelistiriciKampi\ECommerceEntities\obj\Debug\ECommerceEntities.pdb
